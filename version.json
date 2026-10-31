@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "启动不再自动抓；停止抓取能真中断；歌单下载插队；歌单曲目与封面离线化",
+  "notes": "新增局域网访问开关；播放器与歌单若干修补",
   "released": "2026-11-01"
 }
