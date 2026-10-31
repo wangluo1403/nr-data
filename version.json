@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "歌词禁止选中；去掉“云端名单已拉取”那行日志",
-  "released": "2026-10-31"
+  "notes": "启动不再自动抓；停止抓取能真中断；歌单下载插队；歌单曲目与封面离线化",
+  "released": "2026-11-01"
 }
