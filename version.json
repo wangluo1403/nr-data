@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
+  "version": "0.5.8",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "间奏的三个点改成到那段才浮现，不再写在歌词里",
+  "notes": "歌词：对唱与间奏三点直接搬 MeiloX 的实现（web/lyric_meilox.js）",
   "released": "2026-10-31"
 }
