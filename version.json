@@ -1,6 +1,6 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.6",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "对唱按 AMLL 的排法：列收窄，左右各让 15%",
+  "notes": "对唱识别照 MeiloX 的做法；间奏太长显示三个点",
   "released": "2026-10-31"
 }
