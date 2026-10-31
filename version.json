@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "新增代理设置；断网计时改从断网那刻算；音乐播放器支持触摸看歌词",
+  "notes": "歌词：对唱左右分边，制作名单不显示，等唱时显示三个点",
   "released": "2026-10-31"
 }
