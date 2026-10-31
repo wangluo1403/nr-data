@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
+  "version": "0.5.3",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "逐字改成按字权重推进（标点短、英文词长），并去掉间奏三点",
+  "notes": "对唱左右分边；制作名单不显示；没有间奏三点",
   "released": "2026-10-31"
 }
