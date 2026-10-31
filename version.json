@@ -1,6 +1,6 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.6",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "歌单里点已下载的歌直接播；逐字按真实句长推进、不封顶",
+  "notes": "联网后只抓一轮，之后等断网再计时",
   "released": "2026-10-31"
 }
