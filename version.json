@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "对唱左右分边；制作名单不显示；没有间奏三点",
+  "notes": "逐字按整句时长比例分，逗号后空一个字的时长",
   "released": "2026-10-31"
 }
