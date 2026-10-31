@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "对唱识别照 MeiloX 的做法；间奏太长显示三个点",
+  "notes": "间奏的三个点改成到那段才浮现，不再写在歌词里",
   "released": "2026-10-31"
 }
