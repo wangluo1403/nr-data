@@ -1,6 +1,6 @@
 {
-  "version": "0.5.9",
+  "version": "0.6.2",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "间奏三个点改成夹在两句之间、唱到才显示；对唱按 MeiloX 的判定",
+  "notes": "逐字改成按字权重推进（标点短、英文词长），并去掉间奏三点",
   "released": "2026-10-31"
 }
