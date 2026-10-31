@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
+  "version": "0.5.8",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "断网计时和「刚抓过」存进 state.json，重启不重置",
+  "notes": "立刻抓取可勾选抓哪些（默认全选）；断网计时跨重启保留",
   "released": "2026-10-31"
 }
