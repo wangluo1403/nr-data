@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "联网后只抓一轮，之后等断网再计时",
+  "notes": "断网计时和「刚抓过」存进 state.json，重启不重置",
   "released": "2026-10-31"
 }
