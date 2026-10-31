@@ -1,6 +1,6 @@
 {
-  "version": "0.5.9",
+  "version": "0.6.0",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "播放器更新：逐字按真实句长；歌单点已下载直接播",
+  "notes": "歌词禁止选中；去掉“云端名单已拉取”那行日志",
   "released": "2026-10-31"
 }
