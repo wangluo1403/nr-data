@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "歌词：对唱左右分边，制作名单不显示，等唱时显示三个点",
+  "notes": "对唱按 AMLL 的排法：列收窄，左右各让 15%",
   "released": "2026-10-31"
 }
