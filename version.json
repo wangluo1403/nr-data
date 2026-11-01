@@ -1,5 +1,5 @@
 {
-  "version": "0.6.4",
+  "version": "0.6.5",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "生成器移出程序（只在 U 盘）；播放器与歌单更新", "released": "2026-11-01"
+  "notes": "播放器与歌单继续更新；程序里不含生成器", "released": "2026-11-01"
 }
