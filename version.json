@@ -1,6 +1,5 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.4",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "新增局域网访问开关；播放器与歌单若干修补",
-  "released": "2026-11-01"
+  "notes": "生成器移出程序（只在 U 盘）；播放器与歌单更新", "released": "2026-11-01"
 }
