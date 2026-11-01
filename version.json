@@ -1,5 +1,5 @@
 {
-  "version": "0.6.5",
+  "version": "0.6.6",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "播放器与歌单继续更新；程序里不含生成器", "released": "2026-11-01"
+  "notes": "云端封禁名单也走镜像站，GitHub 连不上也能拉到", "released": "2026-11-01"
 }
