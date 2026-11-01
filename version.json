@@ -1,5 +1,5 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "云端封禁名单也走镜像站，GitHub 连不上也能拉到", "released": "2026-11-01"
+  "notes": "安装器默认开机自启；封禁名单走镜像", "released": "2026-11-01"
 }
