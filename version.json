@@ -1,5 +1,6 @@
 {
-  "version": "0.6.9",
+  "version": "0.6.10",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "联网检测改回间隔制，50 分钟一轮", "released": "2026-11-08"
+  "notes": "关抓取/联网三档/百度检测开关；极简开屏；多镜像",
+  "released": "2026-11-08"
 }
