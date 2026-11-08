@@ -1,5 +1,5 @@
 {
-  "version": "0.6.8",
+  "version": "0.6.9",
   "zip": "https://raw.githubusercontent.com/wangluo1403/nr-data/main/app.zip",
-  "notes": "点歌台与扩展页更新", "released": "2026-11-08"
+  "notes": "联网检测改回间隔制，50 分钟一轮", "released": "2026-11-08"
 }
